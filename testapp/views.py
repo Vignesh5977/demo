@@ -72,6 +72,7 @@ class orderview(APIView):
                     'total sell qty ':b
                 })   
                 
-        return Response(output)    
+        return Response(output)   
+     
      
               
