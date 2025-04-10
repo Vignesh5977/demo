@@ -73,6 +73,5 @@ class orderview(APIView):
                 })   
                 
         return Response(output)    
-    def name():
-        return("name")      
+     
               
